@@ -1,6 +1,6 @@
-                                                          DB Model Design
-                                            Application:ZenClass Programme
----Features:
+                                                        #  DB Model Design
+                                            #Application:ZenClass Programme
+#Features:
 
 # Users :
 o User_id
@@ -43,7 +43,8 @@ o Placement
 o Mentor_Id
 o Mentor_Name
 o Mentee’s Count
-Relationships:
+
+#Relationships:
 
 <img src="mongodbpic/Relation.png" alt="DB Design"/>
 <img src="mongodbpic/Relation1.png" alt="DB Design1"/>
